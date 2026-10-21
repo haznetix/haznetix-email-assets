@@ -1,0 +1,1 @@
+# haznetix-email-assets
